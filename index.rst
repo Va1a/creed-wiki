@@ -11,3 +11,5 @@ Use the sidebar to access the information you need. First time here? Keep readin
  Many of the magical items you need to trade with the wandering trader can be found by looting structure chests, such as ocean ruins or jungle temples.
 3. Meteors
  Every now and then, a meteor will crash into the overworld. Meteors always have great custom loot that will aid you in trading with the Wandering Trader.
+4. Mana
+ The amount of mana you have is displayed in the mana bar, which can be found above your hunger bar. Mana is deducted when using most (but not all) magical items. Mana regenerates naturally on its own, but you can also use items to regenerate mana faster.
