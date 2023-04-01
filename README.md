@@ -1,2 +1,2 @@
-# Repository for readthedocs
-https://creed-wiki.readthedocs.io/en/latest/
+# Repository for the creed wiki
+https://github.com/Va1a/creed-wiki/wiki
